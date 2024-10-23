@@ -1,1 +1,1 @@
-# .github
+Official Github for Ewizt Technology
